@@ -1,0 +1,8 @@
+{
+  "name": "event-target",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jiankafei/event-target.git",
+  "author": "jiankafei",
+  "license": "MIT-2.0"
+}
